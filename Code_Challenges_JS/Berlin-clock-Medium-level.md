@@ -40,5 +40,5 @@ Please check the example test cases for the required output format.
 
 
 
-Do you need a hint? [Take a look](Berlin-clock/berlin-clock-hint.md)
+Do you need a hint? [Take a look](Berlin_clock/berlin-clock-hint.md)
 

@@ -6,4 +6,4 @@ You live in the city of Cartesia where all roads are laid out in a perfect grid.
 
     Note: you will always receive a valid array containing a random assortment of direction letters ('n', 's', 'e', or 'w' only). It will never give you an empty array (that's not a walk, that's standing still!).
 
-Do you need a hint? [Take a look](Cartesia/cartesia-hint.md)
+Do you need a hint? [Take a look](Cartesia/Cartesia-hint.md)
